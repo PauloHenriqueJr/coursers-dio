@@ -7,7 +7,8 @@
 
 ## 💬 Sobre 
 
-<p align="justify">Este é um projeto de jogo da memoria elaborado através da plataforma DIO- Digital Innovation One</p>
+<p align="justify">Este é um projeto de jogo da memoria elaborado através da plataforma DIO - Digital Innovation One.
+</p>
 
 
 
