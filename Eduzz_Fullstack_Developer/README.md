@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./digital-innovation.jpg" width="450px"></br>
+    <img src="./Eduzz_Fullstack_Developer.png" width="450px"></br>
     Eduzz Fullstack Developer<br>
 </h1
 
